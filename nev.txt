@@ -1,0 +1,3 @@
+nama    : Rasya
+kelas   : SIJA 2
+bidang   : AI
